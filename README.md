@@ -9,6 +9,7 @@ Note: The repos (two separate repos, one for front-end and another for back-end)
 
 ## Dependencies & Tech Stack
 
+- JavaScript
 - Ruby 2.6.6
 - Rails 4.2.11 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 - PostgreSQL 14.1
